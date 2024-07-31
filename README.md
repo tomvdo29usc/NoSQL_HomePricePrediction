@@ -2,6 +2,7 @@
 ## About The Project
 
 The project contains the designed MongoDB database schema with optimized collections to store housing data. Extracted, transformed, loaded (ETL) raw home information to build accurate document-oriented data models for advanced analytics.
+
 **Tools**: Python (NumPy, Pandas, statsmodels), MongoDB NoSQL
 
 **Skills**: Data Engineering, Applied Statistics, ETL Pipeline, Database Management
